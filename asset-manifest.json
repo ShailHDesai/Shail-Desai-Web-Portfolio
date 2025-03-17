@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Shail-Desai-Web-Portfolio/static/css/main.2334614e.css",
+    "main.js": "/Shail-Desai-Web-Portfolio/static/js/main.71c1b85e.js",
+    "static/js/453.aac68abc.chunk.js": "/Shail-Desai-Web-Portfolio/static/js/453.aac68abc.chunk.js",
+    "static/media/E-Carmart.png": "/Shail-Desai-Web-Portfolio/static/media/E-Carmart.32b4f47bcfde3c64771c.png",
+    "static/media/Purdue_Campus_Connect.jpg": "/Shail-Desai-Web-Portfolio/static/media/Purdue_Campus_Connect.1c0f94b0a6e5b9d1cd77.jpg",
+    "static/media/BOMAI.png": "/Shail-Desai-Web-Portfolio/static/media/BOMAI.c267540fc8e8f7ef0d82.png",
+    "static/media/Smart_Traffic.jpg": "/Shail-Desai-Web-Portfolio/static/media/Smart_Traffic.d5ee5212761fc44d57ed.jpg",
+    "static/media/Purdue.png": "/Shail-Desai-Web-Portfolio/static/media/Purdue.7639a461af4034c6f71d.png",
+    "static/media/postgresql.png": "/Shail-Desai-Web-Portfolio/static/media/postgresql.7b97558370360765ddab.png",
+    "static/media/aws.png": "/Shail-Desai-Web-Portfolio/static/media/aws.bfe1b66f88bfb7dd0abe.png",
+    "static/media/mysql.png": "/Shail-Desai-Web-Portfolio/static/media/mysql.8a2c26598b4ef52129f7.png",
+    "static/media/oracle.png": "/Shail-Desai-Web-Portfolio/static/media/oracle.dacc9451f33d6973babf.png",
+    "static/media/CEHS.png": "/Shail-Desai-Web-Portfolio/static/media/CEHS.e458b3c620faac32b114.png",
+    "static/media/profile_pic1.png": "/Shail-Desai-Web-Portfolio/static/media/profile_pic1.393ec9d59065e965869c.png",
+    "static/media/Purdue_Chatbot.png": "/Shail-Desai-Web-Portfolio/static/media/Purdue_Chatbot.15c79a1edbbd5cc91726.png",
+    "static/media/csharp.png": "/Shail-Desai-Web-Portfolio/static/media/csharp.71e0d42d9f5e5a9dadcf.png",
+    "static/media/javascript.png": "/Shail-Desai-Web-Portfolio/static/media/javascript.b78e6f4ba7bc4dd48122.png",
+    "static/media/springboot.png": "/Shail-Desai-Web-Portfolio/static/media/springboot.b1c9ce6dc569954a705a.png",
+    "static/media/react.png": "/Shail-Desai-Web-Portfolio/static/media/react.8a2f724c1a61a629a47c.png",
+    "static/media/azure.png": "/Shail-Desai-Web-Portfolio/static/media/azure.45ec1e423e13d419ffa4.png",
+    "static/media/mongodb.png": "/Shail-Desai-Web-Portfolio/static/media/mongodb.02df2791464ccd536fc6.png",
+    "static/media/angular.png": "/Shail-Desai-Web-Portfolio/static/media/angular.7d542000fb00b996d7d4.png",
+    "static/media/vue.png": "/Shail-Desai-Web-Portfolio/static/media/vue.ebc062f3bca38c3aad8b.png",
+    "static/media/Sales_Order.png": "/Shail-Desai-Web-Portfolio/static/media/Sales_Order.51707cd83e3c52004592.png",
+    "static/media/dynamodb.png": "/Shail-Desai-Web-Portfolio/static/media/dynamodb.2120c9e95a9d9bc2cef8.png",
+    "static/media/gcp.png": "/Shail-Desai-Web-Portfolio/static/media/gcp.321283b8a2d4ea6401df.png",
+    "static/media/java.png": "/Shail-Desai-Web-Portfolio/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/Shail-Desai-Web-Portfolio/index.html",
+    "main.2334614e.css.map": "/Shail-Desai-Web-Portfolio/static/css/main.2334614e.css.map",
+    "main.71c1b85e.js.map": "/Shail-Desai-Web-Portfolio/static/js/main.71c1b85e.js.map",
+    "453.aac68abc.chunk.js.map": "/Shail-Desai-Web-Portfolio/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2334614e.css",
+    "static/js/main.71c1b85e.js"
+  ]
+}
