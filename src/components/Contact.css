@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+.contact-section {
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #141e30, #243b55);
+  color: #f0f0f0;
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  color: #00ffcc;
+  margin-bottom: 40px;
+  letter-spacing: 1.2px;
+}
+
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  display: grid;
+  gap: 20px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 15px;
+  border-radius: 12px;
+  border: none;
+  font-size: 16px;
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: #2a2f3d;
+  color: #f0f0f0;
+  outline: none;
+  transition: box-shadow 0.3s ease;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  box-shadow: 0 0 8px rgba(0, 255, 204, 0.8);
+}
+
+.contact-form button {
+  padding: 15px;
+  background: linear-gradient(90deg, #00ffcc, #0066ff);
+  color: #141e30;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 12px;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.contact-form button:hover {
+  background: linear-gradient(90deg, #0066ff, #00ffcc);
+  transform: scale(1.05);
+}
+
+.status {
+  font-family: 'Space Grotesk', sans-serif;
+  margin-top: 15px;
+  font-size: 16px;
+  color: #00ffcc;
+}
+
+/* 🎯 Resume Section */
+.resume-section {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.resume-section p {
+  font-size: 18px;
+  font-weight: 500;
+  color: #f0f0f0;
+  margin-bottom: 15px;
+}
+
+.resume-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.resume-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(90deg, #ff3c3c, #ff8c00);
+  color: white;
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 10px rgba(255, 60, 60, 0.2);
+}
+
+.resume-button:hover {
+  background: linear-gradient(90deg, #ff8c00, #ff3c3c);
+  transform: scale(1.05);
+}
+
+/* 🔗 LinkedIn Section */
+.linkedin-section {
+  margin-top: 40px;
+}
+
+.linkedin-link {
+  font-family: 'Space Grotesk', sans-serif;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #00ffcc;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 10px;
+  transition: color 0.3s ease;
+}
+
+.linkedin-link:hover {
+  color: #00cc99;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 768px) {
+  .contact-section h2 {
+    font-size: 36px;
+  }
+
+  .linkedin-link {
+    font-size: 16px;
+  }
+
+  .resume-buttons {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
