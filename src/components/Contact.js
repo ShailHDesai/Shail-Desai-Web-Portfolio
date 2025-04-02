@@ -10,7 +10,7 @@ const Contact = () => {
   const [status, setStatus] = useState("");
 
   // 🔗 Change this URL to your most recent resume link
-  const resumeUrl = "https://contactfunctionstor123.blob.core.windows.net/portfolio-resumes/Shail%20Desai%20-%20Resume%20-%2001.pdf";
+const resumeURL = "https://contactfunctionstor123.blob.core.windows.net/portfolio-resumes/Shail%20Desai%20-%20Resume%20-%20Updated.pdf";
 
 
 
